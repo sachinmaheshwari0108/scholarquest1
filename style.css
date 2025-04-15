@@ -132,6 +132,10 @@
     width: 15%;
     border-radius: 10px;
   }
+  .section .sec-img{
+    height: 65%;
+    width: 65%;
+  }
 
   .features-col {
     text-align: left;
