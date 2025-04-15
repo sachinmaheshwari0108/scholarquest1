@@ -121,7 +121,12 @@
       padding-top: 12px;
     }
   }
-
+#h2{
+  margin-left: 35px;
+  span{
+    text-decoration: 5px solid gold underline;
+  }
+}
   .section {
     display: flex;
     justify-content: space-between;
@@ -135,12 +140,13 @@
   .sec-img{
     height: 100%;
     width: 100%;
+    margin-left: 30px;
     img{
-      height: 30%;
-      width: 40%;
+      height: 22%;
+      width: 36%;
     }
     #img3{
-      width: 60%;
+      width: 40%;
       margin-left: 50px;
     }
   }
