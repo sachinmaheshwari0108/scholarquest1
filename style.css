@@ -130,11 +130,19 @@
 
   .section img {
     width: 15%;
-    border-radius: 10px;
+    margin: 8px;
   }
-  .section .sec-img{
-    height: 65%;
-    width: 65%;
+  .sec-img{
+    height: 100%;
+    width: 100%;
+    img{
+      height: 30%;
+      width: 40%;
+    }
+    #img3{
+      width: 60%;
+      margin-left: 50px;
+    }
   }
 
   .features-col {
